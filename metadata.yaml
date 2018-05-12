@@ -1,0 +1,37 @@
+_repo: La-Nation-canadienne-tude-Historique-sur-les-Populations-Fran-aises-du-Nord-de-L-Am-rique_35476
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gailly de Taurines, Ch.
+    aliases:
+    - Taurines, Ch. Gailly de
+    - Gailly de Taurines, Charles
+    - Taurines, Gailly de
+    - De Taurines, Ch. Gailly
+    birthdate: 1857
+    deathdate: 1941
+    gutenberg_agent_id: '37704'
+    url: http://www.gutenberg.org/2009/agents/37704
+    wikipedia: http://fr.wikipedia.org/wiki/Charles_Gailly_de_Taurines
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2011-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35476'
+  lccn: '05037461'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada'
+- !lcc 'F1001'
+- !lcsh 'French Canadians'
+title: 'La Nation canadienne
+
+  Étude Historique sur les Populations Françaises du Nord de L''Amérique'
+url: http://www.gutenberg.org/ebooks/35476
