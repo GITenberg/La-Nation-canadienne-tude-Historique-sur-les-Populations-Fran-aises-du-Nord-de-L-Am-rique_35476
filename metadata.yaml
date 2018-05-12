@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37704
     wikipedia: http://fr.wikipedia.org/wiki/Charles_Gailly_de_Taurines
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35476#La-Nation-canadienne-tude-Historique-sur-les-Populations-Fran-aises-du-Nord-de-L-Am-rique
 gutenberg_bookshelf: FR Peuples et Sociétés
 gutenberg_issued: '2011-03-03'
 gutenberg_type: Text
